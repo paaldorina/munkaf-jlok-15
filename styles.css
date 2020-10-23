@@ -101,3 +101,7 @@ fieldset div {
 input[type="text"] {
   width: 300px;
 }
+
+input[type=submit] {
+    background-color: #cfc;
+}
