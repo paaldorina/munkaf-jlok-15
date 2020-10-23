@@ -44,6 +44,7 @@ body {
   padding-right: 30px;
   font-size: 1.2em;
 }
+
 #menu a,
 #menu a:link,
 #menu a:visited {
@@ -51,12 +52,18 @@ body {
   font-weight: bold;
   text-decoration: none;
 }
+
 #menu a:hover {
-    text-decoration: underline;
-} 
+  text-decoration: underline;
+}
+
 h1 {
   font-size: 1.65em;
   text-align: center;
+}
+
+h2 {
+    font-size: 120%;
 }
 
 .kep {
