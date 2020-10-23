@@ -77,7 +77,8 @@ h2 {
 }
 
 .termek_kep {
-  text-align: left;
+  text-align: center;
+  padding: 5px;
 }
 .termek_kep img {
   border: 3px solid #060;
@@ -95,7 +96,7 @@ fieldset {
   font-weight: bold;
 }
 fieldset div {
-  margin: 10px;
+  margin: 20px 0px;
 }
 input[type="text"] {
   width: 300px;
